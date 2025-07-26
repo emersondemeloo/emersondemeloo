@@ -5,7 +5,7 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/](https://www.linkedin.com/feed/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/SEU_USUARIO_TWITTER">
@@ -61,7 +61,7 @@
 ## 📫 Como me encontrar
 
 <div id="contact-me" align="center">
-  <a href="mailto:seu.email@example.com">
+  <a href="mailto:etmelomoraes@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://seuwabsite.com">
