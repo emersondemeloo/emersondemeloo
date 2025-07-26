@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1fnXH/giphy.gif" width="100"/>
-</div>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9xVs0YJ/giphy.gif" width="200"/> </div>
 
 ---
 
@@ -8,16 +7,13 @@
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/](https://www.linkedin.com/feed/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/SEU_USUARIO_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 ---
 
 <div id="profile-text" align="center">
-  <h1>Olá! 👋 Eu sou [Emerson]</h1>
-  <h3>Cientista de Dados | Me especializo em [Machine Learning, Análise de Dados, IA]</h3>
+  <h1>Olá! 👋 Eu sou Emerson</h1>
+  <h3>Cientista de Dados | Me especializo em Machine Learning, Análise de Dados, IA</h3>
   <p>Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará projetos que exploram o mundo dos dados, desde a coleta e limpeza até a modelagem e visualização.</p>
   <p>Meu objetivo é extrair insights valiosos e transformar dados brutos em decisões inteligentes, sempre buscando aprimorar minhas habilidades e compartilhar descobertas.</p>
 </div>
@@ -35,17 +31,17 @@
 
 ## 🌱 O que estou aprendendo agora
 
-- **[Tópico 1 em Ciência de Dados]**: Ex: Deep Learning com PyTorch
-- **[Tópico 2 em Ciência de Dados]**: Ex: Engenharia de Features Avançada
-- **[Tópico 3 em Ciência de Dados]**: Ex: MLOps
+- **Python** 
+- **AWS** 
+- **Engenharia de Features Avançada**
 
 ---
 
 ## 💡 Meus Projetos de Destaque
 
-- **[Nome do Projeto de Dados 1]**: [Pequena descrição do projeto e link para o repositório] - Ex: Análise Preditiva de Churn de Clientes
-- **[Nome do Projeto de Dados 2]**: [Pequena descrição do projeto e link para o repositório] - Ex: Classificação de Imagens com Redes Neurais Convolucionais
-- **[Nome do Projeto de Dados 3]**: [Pequena descrição do projeto e link para o repositório] - Ex: Dashboards Interativos de Vendas com Streamlit/Dash
+- ****
+- ****
+- ****:
 
 ---
 
