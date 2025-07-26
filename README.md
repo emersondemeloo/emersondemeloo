@@ -7,9 +7,7 @@
 ---
 
 <div id="profile-text" align="center">
-  <img src="URL_DO_SEU_SVG_ANIMADO_AQUI" alt="Olá! Eu sou Emerson" width="400"/>
-  <h3>Cientista de Dados | Me especializo em <span style="color: #6A5ACD;">Machine Learning</span>, <span style="color: #6A5ACD;">Análise de Dados</span>, <span style="color: #6A5ACD;">IA</span></h3>
-  <p>Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará projetos que exploram o fascinante mundo dos dados, desde a coleta e limpeza até a modelagem e visualização.</p>
+  <h1>Olá! 👋 Eu sou <span style="color: #007ACC;">Emerson</span></h1> <h3>Cientista de Dados | Me especializo em <span style="color: #6A5ACD;">Machine Learning</span>, <span style="color: #6A5ACD;">Análise de Dados</span>, <span style="color: #6A5ACD;">IA</span></h3> <p>Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará projetos que exploram o fascinante mundo dos dados, desde a coleta e limpeza até a modelagem e visualização.</p>
   <p>Meu objetivo é extrair insights valiosos e transformar dados brutos em decisões inteligentes, sempre buscando aprimorar minhas habilidades e compartilhar descobertas.</p>
 </div>
 
